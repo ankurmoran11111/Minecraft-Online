@@ -1,0 +1,23 @@
+# Enhanced Minecraft Bot Configuration
+
+# Telegram Configuration
+TELEGRAM_BOT_TOKEN = "8430962917:AAE2Ytqti-pyBJxjcCO8pyHm5OmgVtkaQxY"
+AUTHORIZED_USER_ID = 5666606072
+
+# Minecraft Server Configuration  
+MC_SERVER_HOST = "atmkbfjgx5.aternos.me"
+MC_SERVER_PORT = 49252
+MC_BOT_USERNAME = "AFKBot_24x7"
+
+# Movement & Safety Configuration
+MOVEMENT_INTERVAL = 4
+CHAT_INTERVAL = 240
+MOVEMENT_DISTANCE = 2
+TERRAIN_CHECK_RADIUS = 5
+RESPAWN_DELAY = 3
+EFFECT_REFRESH_INTERVAL = 60
+
+# Server Monitoring Configuration
+SERVER_CHECK_TIMEOUT = 10
+MAX_CONNECTION_RETRIES = 3
+RETRY_DELAY = 30
